@@ -182,7 +182,6 @@ platform_do_upgrade() {
 	cmcc,mr3000d-ci|\
 	cmcc,pz-l8|\
 	elecom,wrc-x3000gs2|\
-	elecom,wrc-x3000gst2|\
 	iodata,wn-dax3000gr)
 		local delay
 

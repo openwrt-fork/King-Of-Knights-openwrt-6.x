@@ -73,6 +73,7 @@ platform_do_upgrade() {
 	arcadyan,we420223-99|\
 	asus,rt-ac65p|\
 	asus,rt-ac85p|\
+	asus,rt-ac85u|\
 	asus,rt-ax53u|\
 	asus,rt-ax54|\
 	asus,4g-ax56|\
@@ -147,6 +148,7 @@ platform_do_upgrade() {
 	sim,simax1800t|\
 	sim,simax1800u|\
 	tplink,ec330-g5u-v1|\
+	tplink,ex220-v1-nand|\
 	wifire,s1500-nbn|\
 	xiaomi,mi-router-3g|\
 	xiaomi,mi-router-3-pro|\
